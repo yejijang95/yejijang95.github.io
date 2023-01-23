@@ -2504,6 +2504,11 @@ input, select, textarea {
 	}
 
 /* Actions */
+	/* #single {
+		display: flex;
+		margin-top: 10px;
+		justify-content: center;
+	} */
 
 	ul.actions {
 		display: -moz-flex;
